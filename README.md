@@ -7,3 +7,5 @@ I created this to listen to my pirated audiobooks when going to sleep,I enter th
 I have created a bash script which runs the player and once the player exits, runs my alarm-clock program which suspends my laptop until it's time to wake me up with my personal alarm.With my laptop Which is by my bedside. Having a laptop by my bedside instead of a mobile,helps eliminate distractions and blue light and makes sure I go to sleep early.
 
 # Instructions
+
+# Improvements
