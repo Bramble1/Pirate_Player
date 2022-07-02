@@ -1,4 +1,4 @@
-# Pirate_Player
+# Pirate_Player Version.1
 Play Pirated Audiobooks with the convenience of Auto bookmarking feature. Created as a minimilist "Audible clone", The convenience of Audible without having to purchase audiobooks and being able to play pirated audiobooks on your laptop or computer. Thus mitigates the need for Audible as the main USP for Audible is the convenience of the AutoBookmarking feature and continuing where you left off, whereas if you just used a regular audio player, you will have to manually keep track of the last timestamp, which is inconvenient ,especially if you listen to Audiobooks when going to sleep.
 
 # Use-case
